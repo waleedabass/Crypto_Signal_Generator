@@ -1,4 +1,4 @@
-name: Deploy Streamlit App to Hugging Face
+name: Deploy Streamlit App model to Hugging Face
 
 on:
   push:
