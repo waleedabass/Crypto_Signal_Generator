@@ -32,4 +32,3 @@ jobs:
           git config --global user.name "waleedabass"
           git remote add space https://Waleed765:${HF_TOKEN}@huggingface.co/spaces/Waleed765/Crypto_Signal_Generator || true
           git push --force space main
-          https://huggingface.co/spaces/Waleed765/
