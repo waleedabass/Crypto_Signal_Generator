@@ -2,7 +2,7 @@ name: Deploy Streamlit App model to Hugging Face
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   deploy:
